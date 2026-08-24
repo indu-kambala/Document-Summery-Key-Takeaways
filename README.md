@@ -1,8 +1,8 @@
-# 📄 DocuSense AI
+# 📄 DOCUMENT_SUMMERY - Key -Takeways
 
 <div align="center">
 
-# 🤖 DocuSense AI
+# 🤖 DOCUMENT_SUMMERY - Key -Takeways
 
 ### Intelligent Document Analysis & AI-Powered Document Understanding
 
