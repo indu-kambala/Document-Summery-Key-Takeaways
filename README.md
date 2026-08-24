@@ -13,6 +13,8 @@ DocuSense AI is an AI-powered document intelligence platform that transforms
 
 Built using **Python, Streamlit, Google Gemini AI, Tesseract OCR, PDF Processing, and SQLite.**
 
+"C:\Users\induk\Downloads\1.png"
+
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
