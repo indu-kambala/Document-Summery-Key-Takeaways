@@ -1,8 +1,8 @@
-# 📄 DOCUMENT_SUMMERY - Key -Takeways
+# 📄 DOCUMENT_SUMMERY - Key-Takeways
 
 <div align="center">
 
-# 🤖 DOCUMENT_SUMMERY - Key -Takeways
+# 🤖 DOCUMENT_SUMMERY - Key-Takeways
 
 ### Intelligent Document Analysis & AI-Powered Document Understanding
 
@@ -83,7 +83,7 @@ Built using **Python, Streamlit, Google Gemini AI, Tesseract OCR, PDF Processing
 
 # 🔎 Overview
 
-**DocuSense AI** is an intelligent document analysis and summarization application designed to help users understand lengthy documents quickly and efficiently.
+**DOCUMENT_SUMMERY** is an intelligent document analysis and summarization application designed to help users understand lengthy documents quickly and efficiently.
 
 The application allows users to upload **PDF files and images**, extract their textual content, process the extracted information using **Google Gemini AI**, and generate structured, easy-to-understand summaries.
 
