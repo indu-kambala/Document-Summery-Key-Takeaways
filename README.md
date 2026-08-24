@@ -1,9 +1,6 @@
 # 📄 DOCUMENT SUMMARY — Key Takeaways
 
 <div align="center">
-
-# 🤖 DOCUMENT SUMMARY — Key Takeaways
-
 ### 🚀 Intelligent Document Analysis & AI-Powered Document Understanding
 
 **Upload → Extract → Analyze → Summarize → Ask → Understand**
