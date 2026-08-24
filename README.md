@@ -24,8 +24,6 @@ Built with **Python • Streamlit • Google Gemini AI • Tesseract OCR • PDF
 
 <br><br>
 
-<img src="screenshots/1.png" width="85%">
-
 </div>
 
 ---
